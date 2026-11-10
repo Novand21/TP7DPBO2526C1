@@ -1,0 +1,73 @@
+/* style.css */
+body {
+    font-family: 'Comic Sans', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #bb9324;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+main {
+    max-width: 1000px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+nav a {
+    text-decoration: none;
+    color: #3498db;
+    font-weight: bold;
+    margin: 0 10px;
+}
+nav a:hover { color: #2980b9; }
+.fancy-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+.fancy-table th, .fancy-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+.fancy-table th {
+    background-color: #34495e;
+    color: white;
+}
+.fancy-table tr:hover { background-color: #f1f1f1; }
+.fancy-form {
+    display: grid;
+    gap: 10px;
+    background: #ecf0f1;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.fancy-form input, .fancy-form select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+button {
+    background-color: #27ae60;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: bold;
+}
+button:hover { background-color: #2ecc71; }
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 10px;
+    color: #7f8c8d;
+}
