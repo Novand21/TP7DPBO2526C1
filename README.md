@@ -32,4 +32,7 @@ Saya Muhamad Raditya Novandrian dengan NIM 2508283 mengerjakan TP-7 dalam mata k
 
 ## Dokumentasi (Video)
 
-<video src="dokumentasi/dokumentasi.mp4" controls width="100%"></video>
+
+
+https://github.com/user-attachments/assets/35d5e61c-3e0a-46a4-80ee-9ee2d9314669
+
